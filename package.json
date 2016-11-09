@@ -58,7 +58,7 @@
     "grunt-noflo-browser": "^1.0.1",
     "grunt-saucelabs": "^9.0.0",
     "grunt-string-replace": "1.2.1",
-    "grunt-vulcanize": "0.4.2",
+    "grunt-vulcanize": "1.0.0",
     "grunt-zip": "0.17.0",
     "mocha": "^3.0.2",
     "syn": "0.1.5",
